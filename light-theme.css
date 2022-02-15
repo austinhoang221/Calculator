@@ -1,0 +1,33 @@
+.mode{
+    background-color: #fafafb;
+}
+
+.btn-number{
+    color: #939999;
+    background-color: #fff;
+}
+#display{
+    color: #5b666f;
+}
+
+.btn-backspace{
+    background-color: #e1d5e9;
+    color:#b278be;
+}
+
+
+.btn-operator{
+    background-color: #e1d5e9;
+    color:#b278be;
+}
+
+.btn-round{
+    color:#c0b294;
+    background-color: #f3eee2;
+}
+
+
+.btn-equal{
+    background-color: #9128e1;
+    color:#fff;
+}
